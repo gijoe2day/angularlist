@@ -1,0 +1,30 @@
+[
+  {
+    "name": "yoshi",
+    "belt": "black",
+    "rate": 30,
+    "available": true,
+    "thumb": "content/img/yoshi1.jpg"
+  },
+  {
+    "name": "mario",
+    "belt": "yellow",
+    "rate": 90,
+    "available": true,
+    "thumb": "content/img/yoshi2.jpg"
+  },
+  {
+    "name": "gio",
+    "belt": "orange",
+    "rate": 920,
+    "available": false,
+    "thumb": "content/img/yoshi3.jpg"
+  },
+  {
+    "name": "erne",
+    "belt": "white",
+    "rate": 890,
+    "available": false,
+    "thumb": "content/img/yoshi4.jpg"
+  }
+]
